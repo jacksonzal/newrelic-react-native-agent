@@ -97,8 +97,8 @@
     }
   },
   "codegenConfig": {
-    "name": "new-relic",
+    "name": "reactnativemmkv",
     "type": "modules",
-    "jsSrcsDir": "./new-relic"
+    "jsSrcsDir": "./lib/module"
   }
 }
