@@ -95,5 +95,10 @@
     "android": {
       "newrelic": "6.9.2"
     }
+  },
+  "codegenConfig": {
+    "name": "new-relic",
+    "type": "modules",
+    "jsSrcsDir": "./new-relic"
   }
 }
